@@ -1,3 +1,3 @@
-# web_scrapping
+# web_scraping
 
 SCRAPING CONTENT FROM A WEBSITE
